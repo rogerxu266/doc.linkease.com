@@ -63,4 +63,4 @@ DNS服务器：可为上级路由的IP，也可填写运营商的DNS，也可以
 * [爱快拨号，iStoreOS旁路由](https://www.bilibili.com/video/BV16a4y1C7y3/?spm_id_from=333.788&vd_source=8e363fb838693d4a1c274983edfd43fc)
 * [光猫拨号,iStoreOS接光猫](https://www.bilibili.com/video/BV1864y1w75X/)
 * 光猫拨号的 IPv6 中继：[配置参考](/zh/guide/easepi/quick.html#ipv6透传-中继)
- 
+ ###有些网友发现刷了istoreos后，可以访问外网，但是不能访问Google主页，查看DNS等网络设置也没有看出问题，请帮忙分析和解决。具体信息请查看https://www.right.com.cn/FORUM/forum.php?mod=viewthread&tid=8312065&page=2&extra=&mobile=no#pid20463963
